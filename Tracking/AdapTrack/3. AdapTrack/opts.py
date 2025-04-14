@@ -43,7 +43,7 @@ class Opts:
         opt.dataset_dir = "/kaggle/working/datasets/MOT20/test" if opt.mode == 'test' else "/kaggle/working/datasets/MOT20/train"
 
         # opt.det_feat_path = '../outputs/2. det_feat/%s_%s.pickle' % (opt.dataset, opt.mode)
-        opt.det_feat_path = "/kaggle/working/Fawry_Surveillance/Tracking/AdapTrack/outputs/2. det_feat/MOT20_test.pickle"
+        opt.det_feat_path = "/kaggle/working/Fawry-Surveillance-Competition/Tracking/AdapTrack/outputs/2. det_feat/MOT20_test.pickle"
         # opt.AFLink_weight_path = './AFLink/AFLink_epoch20.pth'
         # opt.AFLink_weight_path = './newmodel_epoch20_tmp.pth'
         opt.AFLink_weight_path = opt.aflink_weight_path
