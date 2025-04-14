@@ -1,0 +1,9 @@
+deepOCenv/
+/data/MOT20/
+/data/MOT17/
+/external/weights/
+**/__pycache__/
+/cache/
+/results/trackers
+/external/fast_reid/datasets/
+**/logs/
