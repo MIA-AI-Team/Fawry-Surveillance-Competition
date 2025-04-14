@@ -3,7 +3,8 @@ _BASE_: ../Base-SBS.yml
 MODEL:
   BACKBONE:
     NAME: build_resnest_backbone
-  WEIGHTS: /content/BoostTrack/external/weights/mot17_sbs_S50.pth
+  # WEIGHTS: /content/BoostTrack/external/weights/mot17_sbs_S50.pth
+  WEIGHTS: /content/Fawry-Surveillance-Competition/Tracking/fast_reid/weights/mot17_sbs_S50.pth
 
 DATASETS:
   NAMES: ("MOT20",)
