@@ -1,4 +1,4 @@
-# AdapTrack repository
+# AdapTrack repository ⌈*[Notebook](https://www.kaggle.com/code/youssifkhale/fawry-adaptrack-inference)*⌉
 
 ## Installation Instructions For The Notebook
 

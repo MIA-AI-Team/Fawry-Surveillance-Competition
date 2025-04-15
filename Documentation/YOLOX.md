@@ -1,4 +1,4 @@
-# YOLOX Training Notebook Guide
+# YOLOX Training Notebook Guide ⌈*[Notebook](https://www.kaggle.com/code/youssifkhale/yolox-trainer)*⌉
 
 This notebook is built for running object detection experiments using the [YOLOX](https://github.com/Megvii-BaseDetection/YOLOX) model in the context of the Fawry Surveillance Competition. It handles environment setup, data preparation, and training configuration.
 
