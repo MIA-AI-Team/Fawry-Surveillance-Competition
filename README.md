@@ -34,10 +34,10 @@ We divide our work on the pedestrian tracking task into two main parts: **Traini
 
 - **Inference**
   - **[AdapTrack <sub>Kaggle</sub>](https://www.kaggle.com/code/youssifkhale/fawry-adaptrack-inference)  ⌈*[Documentation]()*⌉**
-  - **[BoostTrack <sub>Kaggle</sub>](https://www.kaggle.com/code/youssifkhale/fawry-boosttrack-inference)  ⌈*[Documentation](Documentation\BoostTrack.md)*⌉**
+  - **[BoostTrack <sub>Kaggle</sub>](https://www.kaggle.com/code/youssifkhale/fawry-boosttrack-inference)  ⌈*[Documentation](Documentation/BoostTrack.md)*⌉**
 - **Training**
   - **[YoloX <sub>Kaggle</sub>](https://www.kaggle.com/code/youssifkhale/yolox-trainer)  ⌈*[Documentation]()*⌉**
-  - **[FastReID <sub>Collab</sub>](https://colab.research.google.com/drive/1pKdfsoBmmbjCyE8hAkhxIYDPn0n9ONx7?usp=sharing)  ⌈*[Documentation](Documentation\FastReID.md)*⌉**
+  - **[FastReID <sub>Collab</sub>](https://colab.research.google.com/drive/1pKdfsoBmmbjCyE8hAkhxIYDPn0n9ONx7?usp=sharing)  ⌈*[Documentation](Documentation/FastReID.md)*⌉**
 
 ## Submission
 
