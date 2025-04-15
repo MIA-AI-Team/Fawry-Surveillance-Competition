@@ -1,4 +1,4 @@
-# FastReID Training Guide
+# FastReID Training Guide ⌈*[Notebook](https://colab.research.google.com/drive/1pKdfsoBmmbjCyE8hAkhxIYDPn0n9ONx7?usp=sharing)*⌉
 
 This guide provides a step-by-step explanation for setting up the environment, preprocessing the dataset, and training a pedestrian re-identification model using FastReID.
 

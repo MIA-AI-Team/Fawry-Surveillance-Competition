@@ -24,7 +24,7 @@ Access our pre-trained models' weights from the following links:
 
 Including the kaggle notebook for the face recognition task, and the cleaned data used for training the model as well as the cleaned aligned data used directly for the inference task.
 
-- **[Face ReIdentification <sub>Notebook</sub>](https://www.kaggle.com/code/mohamedbassat/face-recognition-ultimate) ⌈*[Documentation]()*⌉**
+- **[Face ReIdentification <sub>Notebook</sub>](https://www.kaggle.com/code/mohamedbassat/face-recognition-ultimate) ⌈*[Documentation](Documentation/FaceReIdentification.md)*⌉**
 - **[Cleaned <sub>Dataset</sub>](https://www.kaggle.com/datasets/youssifkhale/clean-faces/data)**
 - **[Cleaned Aligned <sub>Dataset</sub>](https://www.kaggle.com/datasets/mohamedbassat/cleaned-aligned-faces/data)**
 
@@ -33,10 +33,10 @@ Including the kaggle notebook for the face recognition task, and the cleaned dat
 We divide our work on the pedestrian tracking task into two main parts: **Training** and **Inference**. The training part includes the training of the YoloX model for object detection and the FastReID model for person re-identification. The inference part includes the usage of AdapTrack and BoostTrack models.
 
 - **Inference**
-  - **[AdapTrack <sub>Kaggle</sub>](https://www.kaggle.com/code/youssifkhale/fawry-adaptrack-inference)  ⌈*[Documentation]()*⌉**
+  - **[AdapTrack <sub>Kaggle</sub>](https://www.kaggle.com/code/youssifkhale/fawry-adaptrack-inference)  ⌈*[Documentation](Documentation/AdapTrack.md)*⌉**
   - **[BoostTrack <sub>Kaggle</sub>](https://www.kaggle.com/code/youssifkhale/fawry-boosttrack-inference)  ⌈*[Documentation](Documentation/BoostTrack.md)*⌉**
 - **Training**
-  - **[YoloX <sub>Kaggle</sub>](https://www.kaggle.com/code/youssifkhale/yolox-trainer)  ⌈*[Documentation]()*⌉**
+  - **[YoloX <sub>Kaggle</sub>](https://www.kaggle.com/code/youssifkhale/yolox-trainer)  ⌈*[Documentation](Documentation/YOLOX.md)*⌉**
   - **[FastReID <sub>Collab</sub>](https://colab.research.google.com/drive/1pKdfsoBmmbjCyE8hAkhxIYDPn0n9ONx7?usp=sharing)  ⌈*[Documentation](Documentation/FastReID.md)*⌉**
 
 ## Submission
