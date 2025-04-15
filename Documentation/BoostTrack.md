@@ -1,8 +1,12 @@
-# BoostTrack++ Guide
+# BoostTrack++ Guide ⌈*[Notebook](https://www.kaggle.com/code/youssifkhale/fawry-boosttrack-inference)*⌉
 
 ## Installation Instructions For The Notebook
 
-**Note:** The following installation steps must be followed in sequence due to Kaggle storage limit constraints. Additionally, the conda environment setup is incompatible with the dataset in its converted COCO format after storage.
+**Note:** You only need to follow step 1 for replication using different weights. The rest of the steps are for explanatory purposes and to run the notebook successfully.
+
+**Note:** The notebook is designed to be run on Kaggle, and the instructions below are tailored for that environment.
+
+**Note:** The cells/blocks of the notebook should be run in order to avoid errors. **e.g.** the conda environment setup can't be done after converting the dataset to COCO format due to kaggle storage constraints.
 
 ---
 
