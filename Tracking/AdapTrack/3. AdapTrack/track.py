@@ -43,6 +43,7 @@ def run(vid_name, def_feat, save_path):
     tracker = Tracker(metric, vid_name)
     results = []
 
+
     # Run
     # print(def_feat.keys())
     for frame_idx in def_feat.keys():
