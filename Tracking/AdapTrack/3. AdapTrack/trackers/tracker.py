@@ -15,7 +15,7 @@ class Tracker:
         self.next_id = 1
 
         # Set camera motion compensation model
-        self.cmc = CMC(vid_name)
+        #self.cmc = CMC(vid_name)
 
     def initiate_track(self, detection):
         self.tracks.append(Track(detection.to_cxcyah(), self.next_id, detection.confidence, detection.feature))
